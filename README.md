@@ -6,7 +6,7 @@
 
 分享地址:自己实践成功了
 
-http://www.jishux.com/plus/view-639323-1.html
+https://github.com/zhiweiAndroid/ToastUtil
 
 
 
